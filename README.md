@@ -7,7 +7,7 @@ If you are using an P10 LED display(module), use this code👇<br/>
 
 <h4>Lcd Display</h4><br/>
 If you are using an LCD display(module), use this code👇<br/>
-<br>New_arduino.ino
+<br>new_arduino.ino
     
 <h2>Requirements:</h2><br/>
 Arduino IDE<br/>
